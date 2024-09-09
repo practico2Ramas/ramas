@@ -1,2 +1,2 @@
-"Practico Ramas" 
-"A¤adiendo contenido en la rama nueva-funcionalidad"
+Cambio manual de README para resolver conflicto
+
